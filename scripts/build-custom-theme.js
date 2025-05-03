@@ -16,6 +16,7 @@
 //               css: '/path/to/file/generated/by/this/script'
 //           }
 //       }
+
 //
 // 5. Restart Node-RED
 //
